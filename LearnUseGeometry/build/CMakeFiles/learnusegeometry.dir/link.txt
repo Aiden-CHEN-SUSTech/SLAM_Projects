@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/learnusegeometry.dir/main.cpp.o  -o learnusegeometry -rdynamic 

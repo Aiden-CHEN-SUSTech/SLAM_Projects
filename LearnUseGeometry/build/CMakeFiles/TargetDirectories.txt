@@ -1,0 +1,7 @@
+/home/aiden/projects/LearnUseGeometry/build/CMakeFiles/install.dir
+/home/aiden/projects/LearnUseGeometry/build/CMakeFiles/list_install_components.dir
+/home/aiden/projects/LearnUseGeometry/build/CMakeFiles/rebuild_cache.dir
+/home/aiden/projects/LearnUseGeometry/build/CMakeFiles/learnusegeometry.dir
+/home/aiden/projects/LearnUseGeometry/build/CMakeFiles/install/strip.dir
+/home/aiden/projects/LearnUseGeometry/build/CMakeFiles/install/local.dir
+/home/aiden/projects/LearnUseGeometry/build/CMakeFiles/edit_cache.dir

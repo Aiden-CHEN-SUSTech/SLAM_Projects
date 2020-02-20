@@ -1,0 +1,7 @@
+/home/aiden/projects/g20_curve_fitting/build/CMakeFiles/install.dir
+/home/aiden/projects/g20_curve_fitting/build/CMakeFiles/list_install_components.dir
+/home/aiden/projects/g20_curve_fitting/build/CMakeFiles/rebuild_cache.dir
+/home/aiden/projects/g20_curve_fitting/build/CMakeFiles/g20_curve_fitting.dir
+/home/aiden/projects/g20_curve_fitting/build/CMakeFiles/install/strip.dir
+/home/aiden/projects/g20_curve_fitting/build/CMakeFiles/install/local.dir
+/home/aiden/projects/g20_curve_fitting/build/CMakeFiles/edit_cache.dir
